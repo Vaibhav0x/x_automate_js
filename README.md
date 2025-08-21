@@ -42,7 +42,7 @@ X_Automate/
 Download this repository or clone it:
 
 ```bash
-git clone https://github.com/yourusername/X_Automate.git
+git clone https://github.com/Vaibhav0x/x_automate_js
 ```
 
 ### 2. Open Chrome Extensions Page
