@@ -74,6 +74,9 @@ git clone https://github.com/Vaibhav0x/x_automate_js
    * `Delay` → Time in milliseconds between actions (e.g., 1000).
 5. Click **Stop** at any time to end the automation.
 
+
+Note:
+Unfollow works on only x.com/user_name/following url
 ---
 
 ## 🔑 Permissions
